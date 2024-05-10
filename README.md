@@ -12,7 +12,7 @@ Source code for the game: https://github.com/nickybakes/580-game
 
 I designed and developed the game's rules/logic, player movement, combat and weapon interactions, computer controlled bots, animation systems, and scalable multiplayer logic. My goal was to make a hectic game that anyone can pick up and master. We did lots of playtesting to fine tune everything to just the right level of chaos and competitiveness. I also created all the art in the game, and wrote many of the voice lines for the announcer (voiced by Kieran Newell).
 
-Steel Heel Jam was created in 3 months by Nick Baker, Brian Kiss, Joshua Quinones, and Sam Lambermont.
+Steel Heel Jam was created in 3 months by Nick Baker, Brian Kiss, Joshua Quinones, and Sam Lambermont and shipped in December 2022.
 
 https://github.com/nickybakes/Steel-Heel-Jam-Game/assets/47609027/91896a0a-2f94-43bd-ac55-7700180ca261
 
