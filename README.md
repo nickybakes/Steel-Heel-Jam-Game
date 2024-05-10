@@ -1,6 +1,6 @@
 # Steel Heel Jam
 A top-down multiplayer brawling game. I designed and developed the core gameplay and combat and I did the art as well. \
-You can download the game for free from the Itch.IO page: https://nickybakes.itch.io/steel-heel-jam
+You can download the game for free from the Itch.IO page: https://nickybakes.itch.io/steel-heel-jam \
 Source code for the game: https://github.com/nickybakes/580-game
 
 - Steel Heel Jam is heavily inspired by professional wrestling entertainment.
