@@ -3,10 +3,10 @@ A top-down multiplayer brawling game. I designed and developed the core gameplay
 You can download the game for free from the Itch.IO page: https://nickybakes.itch.io/steel-heel-jam
 
 - Steel Heel Jam is heavily inspired by professional wrestling entertainment.
-- Your goal is to stay inside the shrinking ring and knock the other fighters out of the ring.
+- Your goal is to stay inside the shrinking ring and knock your opponents out of the ring.
 - Your health and stamina are combined into one stat: your Audience Approval. If your Approval reaches 0 while outside the ring, you are eliminated.
 - You have a dedicated button for Flexing. Getting into fights and flexing in the big spotlight will fill your Spotlight meter.
-- Once filled, you're given a buff for the rest of the match. Get enough buffs and you'll ignite the powerful Heel Fire and devistate your opponents.
+- Once filled, you're given a buff for the rest of the match. Get enough buffs and you'll ignite the powerful Heel Fire and devastate your opponents.
 - You can pick up and use weapons thrown in by the audience.
 
 I designed and developed player movement, combat and weapon interactions, computer controlled bots. My goal was to make a hectic game that anyone can pick up and master. We did lots of playtesting to fine tune everything to just the right level of chaos and competitiveness. I also created all the art in the game, and wrote many of the voice lines for the announcer (voiced by Kieran Newell).
