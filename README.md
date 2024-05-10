@@ -1,5 +1,5 @@
 # Steel Heel Jam
-A top-down multiplayer brawling game. I designed and developed the core gameplay and combat and I did the art as well. \
+A top-down multiplayer brawling game built with Unity and C#. I designed and developed the core gameplay and combat and I did the art as well. \
 You can download the game for free from the Itch.io page: https://nickybakes.itch.io/steel-heel-jam \
 Source code for the game: https://github.com/nickybakes/580-game
 
