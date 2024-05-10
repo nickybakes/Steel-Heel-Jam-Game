@@ -9,7 +9,7 @@ You can download the game for free from the Itch.IO page: https://nickybakes.itc
 - Once filled, you're given a buff for the rest of the match. Get enough buffs and you'll ignite the powerful Heel Fire and devastate your opponents.
 - You can pick up and use weapons thrown in by the audience.
 
-I designed and developed player movement, combat and weapon interactions, computer controlled bots. My goal was to make a hectic game that anyone can pick up and master. We did lots of playtesting to fine tune everything to just the right level of chaos and competitiveness. I also created all the art in the game, and wrote many of the voice lines for the announcer (voiced by Kieran Newell).
+I designed and developed the game's rules/logic, player movement, combat and weapon interactions, computer controlled bots, animation systems, and scalable multiplayer logic. My goal was to make a hectic game that anyone can pick up and master. We did lots of playtesting to fine tune everything to just the right level of chaos and competitiveness. I also created all the art in the game, and wrote many of the voice lines for the announcer (voiced by Kieran Newell).
 
 Steel Heel Jam was created in 3 months by Nick Baker, Brian Kiss, Joshua Quinones, and Sam Lambermont.
 
